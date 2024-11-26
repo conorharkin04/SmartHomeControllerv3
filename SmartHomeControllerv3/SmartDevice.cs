@@ -42,7 +42,7 @@ namespace SmartHomeController
 
         }
 
-        // Methods
+        // Methods 
         public void TurnOn()
         {
             Status = true;
